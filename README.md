@@ -96,7 +96,7 @@
 
 <div align="center">
 
-📧 **Correo:** tu_correo@ejemplo.com
+📧 **Correo:** ar1521613@gmail.com
 
 💻 **GitHub:** https://github.com/andrea-rys08
 
