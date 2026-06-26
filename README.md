@@ -16,7 +16,6 @@
 
 ✨ Soy estudiante de **Desarrollo de Software**, apasionada por el desarrollo web y la creación de soluciones tecnológicas.
 
-- 🎓 Estudiante universitaria.
 - 🌱 Actualmente aprendiendo JavaScript y nuevas tecnologías.
 - 💡 Me gusta desarrollar proyectos prácticos y funcionales.
 - 🚀 Siempre buscando mejorar mis habilidades como desarrolladora.
