@@ -1,27 +1,24 @@
 # ¡Hola! Soy Andrea Reyes 👋
 
-### Estudiante de Desarrollo de Software
+### 💻 Estudiante de Desarrollo de Software
 
-## Sobre mí
-- Apasionada por el desarrollo web
-- Me gusta aprender nuevas tecnologías
-- Actualmente trabajando en proyectos académicos
+Bienvenido a mi perfil de GitHub.
 
-## Tecnologías
-
+## 🚀 Tecnologías
 - HTML
 - CSS
 - JavaScript
 - Git
 - GitHub
 
-## Proyectos destacados
+## 📊 Estadísticas
 
-### 🐾 Adopcion_Patitas
-Sistema web para adopción de mascotas.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrea-rys08&show_icons=true&theme=tokyonight)
 
-### 💻 techLap
-Proyecto desarrollado con JavaScript.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-rys08&layout=compact&theme=tokyonight)
 
-### 📚 practica_clase
-Ejercicios y prácticas de desarrollo web.
+## 📌 Proyectos destacados
+
+- 🐾 Adopcion_Patitas
+- 💻 techLap
+- 📚 practica_clase
